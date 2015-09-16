@@ -1,0 +1,5 @@
+001-0853c00	TKD 33-1175b	buddhist/K-koreana/33-tif/1100-1199/33_1175_B.TIF
+001-0854a14	TKD 33-1175c	buddhist/K-koreana/33-tif/1100-1199/33_1175_C.TIF
+001-0854a34	TKD 33-1176a	buddhist/K-koreana/33-tif/1100-1199/33_1176_A.TIF
+001-0854b20	TKD 33-1176b	buddhist/K-koreana/33-tif/1100-1199/33_1176_B.TIF
+001-0854b00	T 001-0854b	buddhist/T-taisho/T08/08/T08-0854.png
