@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說觀想佛母般若波羅蜜多菩薩經
+#+DATE: 2015-08-30 19:47:02.728615
+#+PROPERTY: JUAN 0
