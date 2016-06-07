@@ -1,23 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:47:02.519398
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:29
 #+TITLE: 佛說觀想佛母般若波羅蜜多菩薩經
 #+PROPERTY: CBETA_ID T08n0259
 #+PROPERTY: ID KR6c0224
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 08, No. 259
 #+PROPERTY: VOL 08
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0224_T_001-0854a> 
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.259¶
-
- 《佛說觀想佛母般若波羅蜜多¶
+No. 259¶
+《佛說觀想佛母般若波羅蜜多¶
 菩薩經》¶
 ¶
-西天譯經三藏朝散大夫試鴻臚少卿¶
-明教大師臣天息災奉　詔譯¶
+西天譯經三藏朝散大夫試鴻臚少卿明教大師臣天息災奉　詔譯¶
 
 灌頂真言：¶
 
